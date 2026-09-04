@@ -15,7 +15,7 @@ void fuckoff(int x)
 {
     for(int i = 0; i < x; i++)
     {
-        std::cout << "maKeit yours\n";
+        std::cout << "OH FUCK OFF!!\n";
     }
 }
 
