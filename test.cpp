@@ -4,7 +4,7 @@ void fuckoff(int x);
 
 int main()
 {   
-    std::cout << "what? \n";
+    std::cout << "Ready?\n";
     int x{callint()};
     
     fuckoff(x);
