@@ -8,6 +8,7 @@ int main()
     int x{callint()};
     
     fuckoff(x);
+    std::cout << "size of x " << sizeof(x) <<"\n";
     return 0;
 }
 
